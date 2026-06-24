@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/(.*)", "destination": "https://dadasmphosting.vercel.app/$1" }
+  ]
+}
